@@ -5,6 +5,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class Helper {
 	
+	//handle windows ,iframe, alert etc
 	public static void selectDropDownValue(WebElement ele,String VisibleText) {
 	
 		new Select(ele).selectByVisibleText(VisibleText);
