@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58675" started-at="2021-04-16T11:17:20Z" finished-at="2021-04-16T11:18:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58675" started-at="2021-04-16T11:17:20Z" finished-at="2021-04-16T11:18:19Z">
+      <class name="visionIt.Hrmmanagement.Testcases.AddUser_TC">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="setUp" is-config="true" duration-ms="842" started-at="2021-04-16T16:47:19Z" finished-at="2021-04-16T16:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="setUp" is-config="true" duration-ms="11195" started-at="2021-04-16T16:47:20Z" finished-at="2021-04-16T16:47:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewUseTestr(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="addNewUseTestr" duration-ms="14594" started-at="2021-04-16T16:47:31Z" data-provider="getExcelData" finished-at="2021-04-16T16:47:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ESS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Enabled]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Kiran@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Kiran@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUseTestr -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="tearDown" is-config="true" duration-ms="6047" started-at="2021-04-16T16:47:46Z" finished-at="2021-04-16T16:47:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="setUp" is-config="true" duration-ms="8162" started-at="2021-04-16T16:47:52Z" finished-at="2021-04-16T16:48:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewUseTestr(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="addNewUseTestr" duration-ms="12673" started-at="2021-04-16T16:48:00Z" data-provider="getExcelData" finished-at="2021-04-16T16:48:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Akash]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Disabled]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Akash@123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Akash@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUseTestr -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:visionIt.Hrmmanagement.Testcases.AddUser_TC@2aece37d]" name="tearDown" is-config="true" duration-ms="5971" started-at="2021-04-16T16:48:13Z" finished-at="2021-04-16T16:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- visionIt.Hrmmanagement.Testcases.AddUser_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
